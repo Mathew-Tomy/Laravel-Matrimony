@@ -1,0 +1,11 @@
+Jesus@sarah&tobias43:15
+
+[u377898353@lt-bnk-web963 ~]$ ls
+–  domains  DO_NOT_UPLOAD_HERE  public_html
+[u377898353@lt-bnk-web963 ~]$ pwd
+/home/u377898353
+[u377898353@lt-bnk-web963 ~]$ cd domains
+[u377898353@lt-bnk-web963 domains]$ ls
+casserolecaterers.in  intexintl.com                 medtryintl.com
+
+composer global require "laravel/envoy=~1.0"
